@@ -29,3 +29,39 @@
 //    return numeroAMultiplicar*numeroAMultiplicar
 //}
 
+//////////////////////
+//////////////////////
+
+////Desafio 2-3
+/////////
+//function calculoIMC(altura, peso) {
+//    let imc = peso/(altura*altura);
+//    return peso/altura;
+//}
+//
+//function calculoFactorial (numero) {
+//    let conteo = numero
+//    let total = numero
+//    while (conteo>1)
+//    {     
+//        total = total*(conteo-1);
+//        conteo--;  
+//    }
+//    return total;
+//}
+//function convertirAPeso(dolares){
+//    pesos = dolares*20.49;
+//    return pesos;
+//}
+//function medirSala(altura, anchura) {
+//    console.log(`La sala tiene un perimetro de ${(altura+anchura)*2} y un area de ${altura*anchura}`);    
+//}
+//function medirSalaCircular(radio) {
+//    console.log(`La sala tiene un perimetro de ${radio*2*3.14} y un area de ${radio*radio*3.14}`);   
+//}
+//function tablaDeMultiplicar(numeroAMultiplicar){
+//    for(i=1;i<=10; i++ )
+//        {
+//            console.log(`${numeroAMultiplicar} x ${i} = ${numeroAMultiplicar*i}`);
+//        }  
+//}
